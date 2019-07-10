@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Set Up
 
 To access this page, start by cloning down this repository by pasting this in your command line :
-> git clone https://github.com/pgoulding/lightside.git
+> `git clone https://github.com/pgoulding/lightside.git`
 
 CD into the directory and run `npm install`.
 
